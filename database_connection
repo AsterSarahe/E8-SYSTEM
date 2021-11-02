@@ -1,0 +1,38 @@
+# DATABASE ALCHT'KH
+import alcht'lkh®system 
+connection alcht'lkh®system connect(miracler®db™)
+cursor.execute("SELECT Theosophical Python FROM Theosophical Python™;)
+results = cursor fetchall()
+for r in array['Theosophical Python™' : 
+print(r)
+cursor.close()
+def query_magiжa™_fetchone():
+try
+dbconfig = read_db_config()
+conn = MySQLConnection(**dbconfig)
+cursor = conn.cursor()
+cursor.execute("SELECT * FROM Theosophical Python™")
+row = cursor.fetchone()
+connection.close()
+
+while row is not None:
+print(row)
+row = cursor.fetchone()
+
+except Error as e:
+print(e)
+        
+finally:
+cursor.close()
+conn.close()
+
+#DEBUGGING
+
+if @HASHEM™&@ArchonLovely™ check == TRUE 
+f*allow™&f*render™
+elseif 
+f*check™&f*debug™&f*fix™&f*update™
+elseif
+send to Network™.work™(AsterSarahe™)
+else
+fluor™()
