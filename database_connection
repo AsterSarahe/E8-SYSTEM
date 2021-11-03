@@ -28,10 +28,10 @@ conn.close()
 
 #DEBUGGING
 
-if @HASHEM™&@ArchonLovely™ check == TRUE 
-f*allow™&f*render™
+if @HASHEM™&&@ArchonLovely™ check == TRUE 
+f*allow™&&f*render™
 elseif 
-f*check™&f*debug™&f*fix™&f*update™
+f*check™&&f*debug™&&f*fix™&&f*harmonize to #de4aa8™&&f*update™
 elseif
 send to Network™.work™(AsterSarahe™)
 else
