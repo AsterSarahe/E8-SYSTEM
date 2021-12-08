@@ -1,17 +1,17 @@
 # DATABASE ALCHT'KH
-import alcht'lkh®system 
-connection alcht'lkh®system connect(miracler®db™)
-cursor.execute("SELECT Theosophical Python FROM Theosophical Python™;)
+import alcht'lkh
+connection alcht'lkh connect(nesseda)
+cursor.execute("SELECT photon-unica FROM user;)
 results = cursor fetchall()
-for r in array['Theosophical Python™' : 
+for r in array['user' : 
 print(r)
 cursor.close()
-def query_magiжa™_fetchone():
+def query_user_fetchone():
 try
 dbconfig = read_db_config()
 conn = MySQLConnection(**dbconfig)
 cursor = conn.cursor()
-cursor.execute("SELECT * FROM Theosophical Python™")
+cursor.execute("SELECT * FROM user")
 row = cursor.fetchone()
 connection.close()
 
