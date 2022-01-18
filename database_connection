@@ -34,7 +34,7 @@ f*allow&&f*index;
 } elseif { 
 f*debug&&f*correct™&&f*update;
 } elseif {
-send to Network(work . faceted dimensions :: Aster™;
+send to Network(work . faceted dimensions :: Aster™);
 } else {
 fluor™(Yagé™);
 }
